@@ -18,7 +18,8 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
 | 1 | Simple Web App | Focus on cloud architecture components | tbd | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/cep-1-simple-app) | 
-| 2 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 2 | Infrastructure as Code | Automated and replicable creation of cloud infrastructure and environments | TerraForm | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-2-iac) | 
+| 3 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
