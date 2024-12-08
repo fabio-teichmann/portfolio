@@ -8,7 +8,7 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 1. become a **cloud engineer** with focus on (big) data infrastructure and ML/AI applications
    - focus on **AWS** as the most widely used cloud provider
    - build relevant projects that focus on specific skills
-   - focus in **IaC** and automatability
+   - focus in **IaC** for automation and reproducability
 2. learn about DevOps workflows and best practices
 3. add another scripting language: **TypeScript**
 
@@ -27,4 +27,12 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
 | 1 | CI/CD Pipeline | Build an automated CI/CD pipeline | GitHub Actions / Jenkins | 📝 definition | [Repo](https://github.com/fabio-teichmann/dop-1-ci-cd) | 
+| 2 | tbd | tbd | tbd | 📝 definition | tbd | 
+
+
+## 🥇 Certifications
+
+| No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
+| :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
+| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | tbd | 📝 definition | n/a | 
 | 2 | tbd | tbd | tbd | 📝 definition | tbd | 
