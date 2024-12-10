@@ -17,9 +17,10 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | Simple Web App in the Cloud | Focus on cloud architecture components | tbd | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/cep-1-simple-app) | 
+| 1 | Simple Web App in the Cloud | Focus on cloud architecture components | EC2, RDS, ... | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/cep-1-simple-app) | 
 | 2 | Infrastructure as Code | Automated and replicable creation of cloud infrastructure and environments | TerraForm | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-2-iac) | 
-| 3 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 3 | On-demand processing | Event-based computation and automated resource shutdown | EC2 Scale-groups, Lambda, S3 | 📝 definition | tbd | 
+| 4 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
@@ -34,5 +35,5 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | tbd | 📝 definition | n/a | 
+| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | AWS Core Services | ⚙️ in progress... | n/a | 
 | 2 | tbd | tbd | tbd | 📝 definition | tbd | 
