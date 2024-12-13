@@ -22,15 +22,16 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | 1 | Simple Web App in the Cloud | Focus on cloud architecture components | EC2, RDS, ... | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/cep-1-simple-app) | 
 | 2 | Infrastructure as Code | Automated and replicable creation of cloud infrastructure and environments | TerraForm | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-2-iac) | 
 | 3 | On-demand processing | Event-based computation and automated resource shutdown | Lambda, S3, SQS, SNS, EC2 Scale-groups(?) | 📝 definition | tbd | 
-| 4 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 4 | Mass email/message service | tbd | SES/SNS, Lambda, S3 | 📝 definition | tbd | 
+| 5 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | CI/CD Pipeline | Build an automated CI/CD pipeline | GitHub Actions / Jenkins ? | 📝 definition | [Repo](https://github.com/fabio-teichmann/dop-1-ci-cd) | 
-| 2 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 1 | CI/CD Pipeline | Build an automated CI/CD pipeline | GitHub Actions / Jenkins ?, AWS CodePipeline | 📝 definition | [Repo](https://github.com/fabio-teichmann/dop-1-ci-cd) | 
+| 2 | Containers | Image creation & management, image security best practices | Docker, Snyk? | 📝 definition | tbd | 
 
 
 ## 🥇 Certifications
