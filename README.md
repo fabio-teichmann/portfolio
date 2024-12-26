@@ -32,12 +32,14 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
 | 1 | CI/CD Pipeline | Build an automated CI/CD pipeline | GitHub Actions / Jenkins ?, AWS CodePipeline | 📝 definition | [Repo](https://github.com/fabio-teichmann/dop-1-ci-cd) | 
 | 2 | Containers | Image creation & management, image security best practices | Docker, Snyk? | 📝 definition | tbd | 
+| 3 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## 🥇 Certifications
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | AWS Core Services | ⚙️ in progress... | n/a | 
-| 2 | AWS Associate Solutions Architect | tbd | tbd | 📝 definition | n/a | 
-| 3 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | AWS Core Services | ✔️ Passed! | n/a | 
+| 2 | AWS Associate Solutions Architect | Intermediary cloud knowledge | AWS Core Services | 📝 definition | n/a | 
+| 3 | AWS Associate Machine Learning Engineer | tbd | tbd | 📝 definition | tbd | 
+| 4 | tbd | tbd | tbd | 📝 definition | tbd | 
