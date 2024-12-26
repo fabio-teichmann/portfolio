@@ -39,7 +39,7 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | AWS Core Services | ✔️ Passed! | n/a | 
+| 1 | AWS Cloud Practitioner | Foundational cloud knowledge | AWS Core Services | :white_check_mark: _Passed!_ | n/a | 
 | 2 | AWS Associate Solutions Architect | Intermediary cloud knowledge | AWS Core Services | 📝 definition | n/a | 
 | 3 | AWS Associate Machine Learning Engineer | tbd | tbd | 📝 definition | tbd | 
 | 4 | tbd | tbd | tbd | 📝 definition | tbd | 
