@@ -23,7 +23,8 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | 2 | Infrastructure as Code | Automated and replicable creation of cloud infrastructure and environments | TerraForm | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-2-iac) | 
 | 3 | On-demand processing | Event-based computation and automated resource shutdown | Lambda, S3, SQS, SNS, EC2 Scale-groups(?) | 📝 definition | tbd | 
 | 4 | Mass email/message service | tbd | SES/SNS, Lambda, S3 | 📝 definition | tbd | 
-| 5 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 5 | Serverless-first | Building and extending components within a serverless environment; use ML/AI services | Lambda, DynamoDB, S3, API Gateway, SNS, Amazon Cognito, Amazon Comprehend, Amazon Translate | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-5-serverless/tree/main) | 
+| 6 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
