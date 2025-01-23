@@ -1,6 +1,6 @@
 # Welcome to my portfolio!
 
-My name is Fabio and I am a software and systems architect. I am training myself to focus on big data and IoT applications in the future. 
+My name is Fabio and I am a software and systems architect. 
 
 I am a trained Data Scientist with a business heavy background and leadership experience. During the last couple of years, I worked mostly on defining, implementing, and maintaining data pipeline infrastructures that are compliant with governmenatal and audit requirements. This included substantial cross-team collaboration with technical and non-technical stakeholders. In this process I've built substantial domain knowledge and became a SME.
 
