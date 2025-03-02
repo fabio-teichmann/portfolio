@@ -33,7 +33,8 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
 | 1 | CI/CD Pipeline | Build an automated CI/CD pipeline | GitHub Actions / Jenkins ?, AWS CodePipeline | 📝 definition | [Repo](https://github.com/fabio-teichmann/dop-1-ci-cd) | 
 | 2 | Containers | Image creation & management, image security best practices | Docker, Snyk? | 📝 definition | tbd | 
-| 3 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 3 | Kubernetes project | Deployment of required resources on local cluster; CI/CD pipeline to trigger updates; simple producer consumer setup with RabbitMQ | Kubernetes, Helm, RabbitMQ, Jenkins, Minikube | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/dop-3-kube) | 
+| 4 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## 🥇 Certifications
