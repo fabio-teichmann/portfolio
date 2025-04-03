@@ -1,6 +1,6 @@
 # Welcome to my portfolio!
 
-My name is Fabio and I am a software and systems architect. 
+My name is Fabio and I am a data architect. 
 
 I am a trained Data Scientist with a business heavy background and leadership experience. During the last couple of years, I worked mostly on defining, implementing, and maintaining data pipeline infrastructures that are compliant with governmenatal and audit requirements. This included substantial cross-team collaboration with technical and non-technical stakeholders. In this process I've built substantial domain knowledge and became a SME.
 
@@ -12,10 +12,9 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 2. learn about **Dev(Sec)Ops** workflows and best practices
    - CI/CD pipelines
    - Containerization best practices and security
-3. add another scripting language: **TypeScript**
 
 
-## ☁️ Cloud Projects
+## ☁️ (Multi-) Cloud Projects
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
@@ -24,7 +23,8 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | 3 | On-demand processing | Event-based computation and automated resource shutdown | Lambda, S3, SQS, SNS, EC2 Scale-groups(?) | 📝 definition | tbd | 
 | 4 | Mass email/message service | tbd | SES/SNS, Lambda, S3 | 📝 definition | tbd | 
 | 5 | Serverless-first | Building and extending components within a serverless environment; use ML/AI services | Lambda, DynamoDB, S3, API Gateway, SNS, Amazon Cognito, Amazon Comprehend, Amazon Translate | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-5-serverless/tree/main) | 
-| 6 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 6 | **Multi-cloud Spot Price Tracking** | tbd | tbd | ⚙️ building... | Something's cooking ... :rocket: | 
+| 7 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
