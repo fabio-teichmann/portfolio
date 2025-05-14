@@ -1,6 +1,6 @@
 # Welcome to my portfolio!
 
-My name is Fabio and I am a data architect. 
+My name is Fabio and I am a data and cloud architect. 
 
 I am a trained Data Scientist with a business heavy background and leadership experience. During the last couple of years, I worked mostly on defining, implementing, and maintaining data pipeline infrastructures that are compliant with governmenatal and audit requirements. This included substantial cross-team collaboration with technical and non-technical stakeholders. In this process I've built substantial domain knowledge and became a SME.
 
@@ -24,8 +24,9 @@ I am a trained Data Scientist with a business heavy background and leadership ex
 | 4 | Mass email/message service | tbd | SES/SNS, Lambda, S3 | 📝 definition | tbd | 
 | 5 | Serverless-first | Building and extending components within a serverless environment; use ML/AI services | Lambda, DynamoDB, S3, API Gateway, SNS, Amazon Cognito, Amazon Comprehend, Amazon Translate | 📝 definition | [Repo](https://github.com/fabio-teichmann/cep-5-serverless/tree/main) | 
 | 6 | **Multi-cloud Spot Price Tracking** | tbd | tbd | ⚙️ building... | Something's cooking ... :rocket: | 
-| 7 | Scalable E-commerce Web Application | End-to-end application setup in AWS | TerraForm, GitHub Actions, AWS Kinesis (Streaming + Firehose), AWS EKS, Flask, Helm, AWS CloudWatch | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/cep_7_e-commerce) | 
-| 8 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 7 | Scalable E-commerce Web Application | End-to-end application setup in AWS | TerraForm, GitHub Actions, AWS Kinesis (Streaming + Firehose), AWS EKS, Flask, Helm, AWS CloudWatch | :white_check_mark: _Done!_ | [Repo](https://github.com/fabio-teichmann/cep_7_e-commerce) | 
+| 8 | Smart Media Insights Platform | tbd | AWS EKS, Helm, Kineis Data Stream, Lambda, ML (Rekognition + Comprehend), Dynamo, RDS, GitHub Actions | ⚙️ building... | [Repo](https://github.com/fabio-teichmann/cep-8-smart-media-insights) | 
+| 9 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
