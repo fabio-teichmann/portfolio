@@ -31,14 +31,12 @@ I’m currently deepening my expertise with a focus on **Kubernetes** as the cor
 
 My longer-term aim is to return to architecture — with a stronger execution layer — and deliver greater strategic value through platform thinking and infrastructure expertise.
 
----
-
 
 ## ☁️ (Multi-)Cloud Projects
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | Smart Media Insights Platform | tbd | AWS EKS, Helm, Kineis Data Stream, Lambda, ML (Rekognition + Comprehend), Dynamo, RDS, GitHub Actions | :white_check_mark: _Done!_ (v1.0.0) | [Repo](https://github.com/fabio-teichmann/cep-8-smart-media-insights) | 
+| 1 | Smart Media Insights Platform | Debugging of EKS bootstrapping using bastion host; Designed reproducible and modularized IaC-driven CI/CD pipeline; Implemented asynchronous cloud-native architecture with streaming components | AWS EKS, Helm, Kineis Data Stream, Lambda, ML (Rekognition + Comprehend), Dynamo, RDS, GitHub Actions | :white_check_mark: _Done!_ (v1.0.0) | [Repo](https://github.com/fabio-teichmann/cep-8-smart-media-insights) | 
 | 2 | Scalable E-commerce Web Application | End-to-end application setup in AWS | TerraForm, GitHub Actions, AWS Kinesis (Streaming + Firehose), AWS EKS, Flask, Helm, AWS CloudWatch | :white_check_mark: _Done!_ | [Repo](https://github.com/fabio-teichmann/cep_7_e-commerce) | 
 | 3 | Simple Web App in the Cloud | Focus on cloud architecture components | EC2, RDS, ... | ✅ _Done!_ | [Repo](https://github.com/fabio-teichmann/cep-1-simple-app) | 
 | 4 | tbd | tbd | tbd | 📝 definition | tbd | 
