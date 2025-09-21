@@ -42,12 +42,13 @@ My longer-term aim is to return to architecture — with a stronger execution la
 | 4 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
-## 🏗️ Platform Projects
+## 🏗️ Platform & Architecture Projects
 
 | No. | Description | Skills acquired | TechStack / Tools | Status | Repo Link |
 | :-: | :---------- | :-------------- | :---------------- | :----- | :-------- |
-| 1 | "k8s-kitchen" - CLI tool for self-service platforms; removes all infra overhead and enables to focus | hosting, configuration & servicing of tools on local k8s cluster (PoC) | Click (Python CLI), GitOps (Argo), MinIO, Kafka, Airflow, ... | ⚙️ in progress... | _PoC in development_ | 
-| 2 | tbd | tbd | tbd | 📝 definition | tbd | 
+| 1 | "Cyber Shield" High-Level-Design | tbd | tbd | ✅ _Done!_ | [Repo](https://github.com/fabio-teichmann/arc-1-cyber-shield) | 
+| 2 | "k8s-kitchen" - CLI tool for self-service platforms; removes all infra overhead and enables to focus | hosting, configuration & servicing of tools on local k8s cluster (PoC) | Click (Python CLI), GitOps (Argo), MinIO, Kafka, Airflow, ... | ⚙️ in progress... | _PoC in development_ | 
+| 3 | tbd | tbd | tbd | 📝 definition | tbd | 
 
 
 ## ♾️ DevOps Projects
